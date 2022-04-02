@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/adobe/cci-test-aggregator#readme",
   "dependencies": {
-    "@adobe/helix-fetch": "3.0.7",
+    "@adobe/helix-fetch": "3.0.8",
     "junit-report-builder": "2.1.0"
   },
   "devDependencies": {
